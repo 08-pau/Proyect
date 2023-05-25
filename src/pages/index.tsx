@@ -31,7 +31,7 @@ export default function Home() {
           <h3 className="title">Información</h3>
           <img className="images" src="/img/calendario.png" alt="Not Found" />
           <hr />
-          <a href="#" className="button">Citas Unidades</a>
+          <Link href="/indexCita" className="button">Citas Unidades</Link>
         </div>
         <div className="column">
           <h3 className="title">Información</h3>

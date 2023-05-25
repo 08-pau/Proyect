@@ -816,3 +816,295 @@ td {
     margin-top: 2vw;
   }
 }
+/*****Paulaaaaaaaa******/
+.mt-5 {
+  margin-top: 3rem !important;
+}
+.container.mt-5 {
+  margin-top: 3rem !important;
+}
+.text-center {
+  text-align: center !important;
+  font-family: 'Josefin_Sans';
+  font-size: 30px;
+  font-weight:bolder;
+  margin-top: -2%;
+ 
+}
+.table{
+text-align: center !important;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.flit{
+  font-weight:bolder;
+  font-size: 20px;
+  font-family: 'Josefin_Sans';
+  margin-top: -2.2%;
+  
+  margin-left: 75%;
+}
+.btn.btn-primary.me-md-2 {
+ 
+  color: #fff;
+  background-color: #212529;
+  border-color: #545557;
+  width: 15%;
+  padding: 0.375rem 0.75rem;
+
+  font-size: 300;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  display: inline-block;
+  font-weight: 430;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid transparent;
+  margin-right: 0.5rem;
+  margin-top: -3.3%;
+  margin-left: 80%;
+}
+.fechaa{
+  font-weight:bolder;
+  font-size: 20px;
+  font-family: 'Josefin_Sans';
+  margin-top: -4%;
+  margin-left: 40%;
+}
+.buses{
+  font-size: 15px;
+  font-family: 'Josefin_Sans';
+
+  margin-bottom: 2% !important;
+  margin-top: 5%;
+  margin-left: 8%;
+}
+.my-3 {
+  font-weight:bolder;
+  font-size: 20px;
+  font-family: 'Josefin_Sans';
+
+  margin-bottom: 2% !important;
+  margin-top: 2%;
+  margin-left: 8%;
+}
+.bus {
+  font-size: 20px;
+  font-family: 'Josefin_Sans';
+
+  margin-bottom: -10% !important;
+  margin-left: 5%;
+}
+
+.col-xl-11,
+.col-lg-11,
+.col-md-10,
+.col-sm-8,
+.col-xs-12 {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.col-xl-11 {
+  flex: 0 0 91.666667%;
+  max-width: 91.666667%;
+}
+
+.col-lg-11 {
+  flex: 0 0 91.666667%;
+  max-width: 91.666667%;
+}
+
+.col-md-10 {
+  flex: 0 0 83.333333%;
+  max-width: 83.333333%;
+}
+
+.col-sm-8 {
+  flex: 0 0 66.666667%;
+  max-width: 66.666667%;
+}
+
+.col-xs-12 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.form-select {
+  background-color: #212529;
+  display: block;
+  width: 15%;
+  padding: 0.375rem 1.75rem 0.375rem 0.75rem;
+  line-height: 1.5;
+  color: #ffffff;
+  margin-top: -3.8%;
+  margin-bottom: -5%;
+  margin-left: 11.5%;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.contenert{
+  color: #212529;
+}
+.form-select:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #86b7fe;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.shadow {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+.table-dark {
+  color: #fff;
+  background-color: #212529;
+}
+.etiquetas{
+  
+  background-color: #353535;
+  color: #d9d9d9;
+  padding: 35px;
+}
+.contenert{
+  
+  background-color: #212529;
+  padding:2px;
+  margin-top: 1%;
+
+
+}
+.image-container  {
+
+  width: 800px;
+  height: 250px;
+  margin-left: 28%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  
+  object-fit: cover;
+}
+.PageFoter{
+  text-align: center !important;
+  font-family: 'Josefin_Sans';
+  font-size: 10px;
+  margin-bottom: 10%;
+
+}
+.form-control {
+  display: block;
+  width: 15%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #ffffff;
+  background-color: #212529;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  margin-left: 45%;
+  margin-top: -2%;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #2ce3f7;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(7, 240, 232, 0.25);
+
+}
+.btn.btn-primary.me-md-2.img {
+display: inline-block;
+width: 20px; /* Ajusta el ancho de la imagen según tus necesidades */
+height: 20px; /* Ajusta el alto de la imagen según tus necesidades */
+background-image: url('/lupa.png');
+background-size: cover; /* Ajusta el tamaño de la imagen */
+background-repeat: no-repeat;
+background-position: center center;
+margin-right: 5px; /* Ajusta el espaciado entre la imagen y el texto según tus necesidades */
+
+}
+.btn.btn-primary.me-md-2:hover {
+  color: #fff;
+  background-color: #212529;
+  border-color: #9c9fa3;
+}
+
+.btn.btn-primary.me-md-2:focus {
+  color: #fff;
+  background-color: #4a4a4b;
+  border-color: #afb0b1;
+  box-shadow: 0 0 0 0.25rem rgba(136, 136, 136, 0.5);
+}
+
+.btn.btn-primary.me-md-2:not(:disabled):not(.disabled).active,
+.btn.btn-primary.me-md-2:not(:disabled):not(.disabled):active {
+  color: #fff;
+  background-color: #7e7e7e;
+  border-color: #919191;
+}
+
+.btn.btn-primary.me-md-2:not(:disabled):not(.disabled).active:focus,
+.btn.btn-primary.me-md-2:not(:disabled):not(.disabled):active:focus {
+  box-shadow: 0 0 0 0.25rem rgba(117, 117, 117, 0.5);
+}
+/******************************************/
+.calendar {
+  width: 300px;
+  font-family: Arial, sans-serif;
+  margin-top: 3%;
+}
+
+.calendar-header {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.calendar-table {
+  width: 100%;
+}
+
+.calendar-table th {
+  text-align: center;
+  padding: 5px;
+}
+
+.calendar-table td {
+  text-align: center;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.calendar-table td:hover {
+  background-color: #eee;
+}
